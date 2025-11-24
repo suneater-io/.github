@@ -1,25 +1,46 @@
-<!-- Banner (Capsule Render) -->
+<!-- =========================
+     SUNEATER.IO — GitHub README
+     Polished Norse theme pass
+     ========================= -->
+
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Grant%20%7C%20suneater&fontAlign=50&fontAlignY=35&desc=Healthcare%20tech%20%7C%20Webex%20CC%20%7C%20AI%20agents%20%7C%20Automation%20tinkerer&descAlign=50&descAlignY=55&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=SUNEATER.IO&fontAlign=50&fontAlignY=35&desc=Devouring%20complex%20workflows%20with%20AI%2C%20healthcare%20tech%2C%20and%20automation&descAlign=50&descAlignY=55&animation=twinkling" />
 </p>
 
-<!-- Little animated divider -->
+<!-- Typing subtitle -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=700&center=true&vCenter=true&width=650&lines=I+build+AI+agents+for+healthcare+contact+centres.;I+turn+messy+workflows+into+clean+systems.;I+automate+things+until+they+behave.;I+break+Home+Assistant+...+then+fix+it." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=700&center=true&vCenter=true&width=760&lines=Devouring+complex+workflows.;Forging+clarity+from+legacy+chaos.;Webex+CC+%7C+Healthcare+%7C+AI+Agents+%7C+Automation." alt="Typing SVG" />
+</p>
+
+<!-- Runic divider (SVG) -->
+<p align="center">
+  <img alt="runic divider" src="data:image/svg+xml;utf8,
+  <svg xmlns='http://www.w3.org/2000/svg' width='900' height='28' viewBox='0 0 900 28'>
+    <rect width='900' height='28' fill='transparent'/>
+    <g fill='none' stroke='white' stroke-width='1.3' opacity='0.7'>
+      <path d='M40 14 H860'/>
+      <path d='M120 6 L140 22 L160 6'/>
+      <path d='M210 6 L230 22 L250 6'/>
+      <path d='M300 6 L320 22 L340 6'/>
+      <path d='M560 6 L580 22 L600 6'/>
+      <path d='M650 6 L670 22 L690 6'/>
+      <path d='M740 6 L760 22 L780 6'/>
+      <circle cx='450' cy='14' r='6'/>
+      <circle cx='450' cy='14' r='2.4' fill='white'/>
+    </g>
+  </svg>" />
 </p>
 
 ---
 
-## 👋 Hey, I’m **Grant** — also known as **suneater**
-
-Ever meet someone who genuinely enjoys solving messy problems? Yeah… that’s me.  
-I work at the intersection of **AI**, **contact centres**, and **healthcare tech**, and I like turning complicated workflows into something that actually makes sense.
-
-If you want the longer version of who I am and what I’m about, head to **https://suneater.io**.
+# 🐺 SUNEATER  
+### Grant — the one who eats complexity for breakfast  
+**The full lore lives at:** https://suneater.io
 
 ---
 
-## 📢 Social + GitHub Pulse
+## 📢 Runestones (GitHub Pulse)
 
 <p align="left">
   <a href="https://github.com/suneater-io?tab=followers">
@@ -38,75 +59,118 @@ If you want the longer version of who I am and what I’m about, head to **https
 
 ---
 
-## ⚡ What I Do
+<!-- Divider -->
+<p align="center">
+  <img alt="runic divider" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+</p>
 
-You know how some people take things apart just to understand them?  
-Well… I do that, but with:
-
-- **Webex Contact Center**
-- **AI agent design**
-- **Healthcare integrations**
-- **Automation pipelines**
-- **Personal builds that start as “quick experiments” and end up in production**
-
-I’m here for systems that are **smart**, **reliable**, and **not painful to operate**.
-
----
-
-## 🧠 Current Focus
-
-Stuff I’m actively thinking about / building right now:
-
-- AI-driven **appointment + FAQ flows**
-- **Healthcare contact-centre automation**
-- Cleaner, safer **workflow integrations**
-- New ways to make AI agents actually useful (not just chatty)
-- **Home Assistant** projects that probably have no business being this complex
+## 🌉 Bifröst — Webex Contact Center
+Where contact centres cross into intelligence.  
+I build:
+- AI-assisted appointment workflows  
+- Context-aware FAQ flows  
+- Agent desktop logic that cuts friction  
+- Integration patterns that behave at scale  
 
 ---
 
-## 🛠️ My Toolkit
+## 🌳 Yggdrasil — Integrated Health  
+Healthcare is chaos by default.  
+My job is to make it predictable:
+- Digital front door automation  
+- HL7 ↔ REST transformations  
+- Clinical workflow orchestration  
+- Secure, safe patient-centric flows  
 
-> These are placeholders — swap or reorder as you like.
+---
 
-### Languages & Platforms
+## 🧠 Mimir — Artificial Intelligence  
+AI that *does work*:
+- Persona-driven AI agents  
+- Rule-aware decision logic  
+- Grounded RAG responses  
+- Human-in-the-loop escalation paths  
+
+---
+
+## 🔨 Brokkr — Automation  
+If it moves, it can be automated.  
+If it breaks, it can be rebuilt stronger.
+
+- Event-driven workflows  
+- Orchestration pipelines  
+- Containerised utilities  
+- Making systems boring, reliable, and predictable  
+
+---
+
+## 📜 The Eddas — Pillars I Build With  
+- **Gungnir:** Accuracy & testing  
+- **Heimdall:** Security, always watching  
+- **Fenrir:** Chaos engineering  
+- **Skíðblaðnir:** Infinite scalability  
+- **Valhalla:** Continuous deployment  
+- **Bragi:** Clean documentation & clear storytelling  
+
+---
+
+<!-- Divider -->
+<p align="center">
+  <img alt="runic divider" src="data:image/svg+xml;utf8,
+  <svg xmlns='http://www.w3.org/2000/svg' width='900' height='22' viewBox='0 0 900 22'>
+    <rect width='900' height='22' fill='transparent'/>
+    <g fill='none' stroke='white' stroke-width='1.2' opacity='0.6'>
+      <path d='M60 11 H840'/>
+      <path d='M90 4 L105 18 L120 4'/>
+      <path d='M780 4 L795 18 L810 4'/>
+      <path d='M420 2 L450 20 L480 2'/>
+    </g>
+  </svg>" />
+</p>
+
+## 🛠️ Toolkit
+
+### Core Stack (the real one)
+<p>
+  <img src="https://img.shields.io/badge/Google%20Antigravity-Experiments-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-Knowledge%20Forge-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Perplexity-Research-0A85FF?style=for-the-badge&logo=perplexity&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-LLM%20Engine-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+### Engineering Stack
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="34" />
-  <!-- placeholders -->
-  <img src="https://img.shields.io/badge/HL7-placeholder-inactive?style=for-the-badge" height="26" />
-  <img src="https://img.shields.io/badge/Webex%20APIs-placeholder-inactive?style=for-the-badge" height="26" />
+  <img src="https://img.shields.io/badge/HL7-interop-7A1E1E?style=for-the-badge" height="26" />
+  <img src="https://img.shields.io/badge/Webex%20APIs-integration-0052CC?style=for-the-badge" height="26" />
 </p>
 
-### Tools I Use a Lot
+### Tools I Use Constantly
 <p>
-  <img src="https://img.shields.io/badge/n8n-automation-0B5FFF?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mirth%20Connect-integration-1A1A1A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Home%20Assistant-smart%20home-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white" />
-  <!-- placeholders -->
-  <img src="https://img.shields.io/badge/%5Byour%20tool%20here%5D-placeholder-inactive?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/n8n-workflow%20automation-0B5FFF?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mirth%20Connect-integration%20engine-1A1A1A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Home%20Assistant-automation-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-networking-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Projects (ready for pinning)
+Nothing pinned yet — but when you are, use this format:
 
-Nothing pinned *yet* — but this section is ready for when you are.
+- **ᚱ Project Runestone 01** — *one-line what it does + why it matters*  
+- **ᚠ Project Runestone 02** — *one-line what it does + why it matters*  
+- **ᛟ Project Runestone 03** — *one-line what it does + why it matters*  
 
-**Soon-to-be occupants:**
-- AI agent frameworks for healthcare contact centres  
-- Integration tooling (HL7 → JSON → workflow triggers)  
-- Home Assistant automations  
-- “Why did I start this?” personal experiments  
-
-> When you’ve got repos to feature, drop them here with a 1–2 line blurb each.
+> When you give me your first repos, I’ll write these blurbs for you in-theme.
 
 ---
 
-## 📈 GitHub Stats (theme aware)
+## 📈 Saga Stats (theme aware)
 
 <p align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=suneater-io&show_icons=true&hide_title=true&rank_icon=github&theme=transparent" />
@@ -120,13 +184,16 @@ Nothing pinned *yet* — but this section is ready for when you are.
 ---
 
 ## 🚀 Want the full story?
-
-If you’re curious about how I think, what I build, or why my projects sometimes look like an AI-powered fever dream:  
+If you’re curious about how I think, what I build, or why my projects sometimes look like a controlled AI-powered fever dream:  
 👉 **https://suneater.io**
 
 ---
 
-<!-- Footer wave -->
+<!-- Footer rune wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=130&section=footer" />
+</p>
+
+<p align="center">
+  ᚠ ᚢ ᚾ ᛖ ᚨ ᛏ ᛖ ᚱ  —  ᛁ ᛟ
 </p>
