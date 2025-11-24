@@ -1,15 +1,11 @@
-## Hi there 👋
+## Hey, I'm suneater.io 👋
 
-<!--
+also known as Grant
 
-**Here are some ideas to get you started:**
+Ever meet someone who genuinely enjoys solving messy problems? That’s me.
+I work at the intersection of AI, contact centres, and healthcare tech, full stack networking and I like turning complicated workflows into something that actually makes sense.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+If you want the longer version of who I am and what I’m about, head to https://suneater.io.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
@@ -21,3 +17,22 @@
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+
+
+⚡ What I Do
+
+You know how some people take things apart just to understand them?
+Well… I do that, but with:
+
+Webex Contact Center
+
+AI agent design
+
+Healthcare integrations
+
+Automations that probably shouldn’t work this well
+
+Random personal projects I build because I can
+
+I like making systems smarter, faster, and easier to live with.
+And I have a habit of thinking way too much about how tech should work, not just how it does.
