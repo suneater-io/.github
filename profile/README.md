@@ -13,25 +13,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=700&center=true&vCenter=true&width=760&lines=Devouring+complex+workflows.;Forging+clarity+from+legacy+chaos.;Webex+CC+%7C+Healthcare+%7C+AI+Agents+%7C+Automation." alt="Typing SVG" />
 </p>
 
-<!-- Runic divider (SVG) -->
-<p align="center">
-  <img alt="runic divider" src="data:image/svg+xml;utf8,
-  <svg xmlns='http://www.w3.org/2000/svg' width='900' height='28' viewBox='0 0 900 28'>
-    <rect width='900' height='28' fill='transparent'/>
-    <g fill='none' stroke='white' stroke-width='1.3' opacity='0.7'>
-      <path d='M40 14 H860'/>
-      <path d='M120 6 L140 22 L160 6'/>
-      <path d='M210 6 L230 22 L250 6'/>
-      <path d='M300 6 L320 22 L340 6'/>
-      <path d='M560 6 L580 22 L600 6'/>
-      <path d='M650 6 L670 22 L690 6'/>
-      <path d='M740 6 L760 22 L780 6'/>
-      <circle cx='450' cy='14' r='6'/>
-      <circle cx='450' cy='14' r='2.4' fill='white'/>
-    </g>
-  </svg>" />
-</p>
-
 ---
 
 # 🐺 SUNEATER  
