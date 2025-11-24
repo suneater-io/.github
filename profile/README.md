@@ -17,10 +17,6 @@
 ### Grant — the one who eats complexity for breakfast  
 **The full lore lives at:** https://suneater.io
 
----
-
-## 📢 Runestones (GitHub Pulse)
-
 <p align="left">
   <a href="https://github.com/suneater-io?tab=followers">
     <img alt="followers" title="Follow me on GitHub"
@@ -36,7 +32,6 @@
   </a>
 </p>
 
----
 
 <p align="center">
   ᚠ ᚢ ᚾ ᛖ ᚨ ᛏ ᛖ ᚱ  —  ᛁ ᛟ
@@ -50,7 +45,6 @@ I build:
 - Agent desktop logic that cuts friction  
 - Integration patterns that behave at scale  
 
----
 
 <p align="center">
   ᚠ ᚢ ᚾ ᛖ ᚨ ᛏ ᛖ ᚱ  —  ᛁ ᛟ
