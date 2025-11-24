@@ -1,14 +1,12 @@
 <!-- =========================
      SUNEATER.IO — GitHub README
-     Polished Norse theme pass
+     Norse theme, GitHub-safe
      ========================= -->
 
-<!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=SUNEATER.IO&fontAlign=50&fontAlignY=35&desc=Devouring%20complex%20workflows%20with%20AI%2C%20healthcare%20tech%2C%20and%20automation&descAlign=50&descAlignY=55&animation=twinkling" />
 </p>
 
-<!-- Typing subtitle -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=700&center=true&vCenter=true&width=760&lines=Devouring+complex+workflows.;Forging+clarity+from+legacy+chaos.;Webex+CC+%7C+Healthcare+%7C+AI+Agents+%7C+Automation." alt="Typing SVG" />
 </p>
@@ -40,9 +38,8 @@
 
 ---
 
-<!-- Divider -->
 <p align="center">
-  <img alt="runic divider" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+  ᚠ ᚢ ᚾ ᛖ ᚨ ᛏ ᛖ ᚱ  —  ᛁ ᛟ
 </p>
 
 ## 🌉 Bifröst — Webex Contact Center
@@ -55,6 +52,10 @@ I build:
 
 ---
 
+<p align="center">
+  ᚠ ᚢ ᚾ ᛖ ᚨ ᛏ ᛖ ᚱ  —  ᛁ ᛟ
+</p>
+
 ## 🌳 Yggdrasil — Integrated Health  
 Healthcare is chaos by default.  
 My job is to make it predictable:
@@ -65,6 +66,10 @@ My job is to make it predictable:
 
 ---
 
+<p align="center">
+  ᚠ ᚢ ᚾ ᛖ ᚨ ᛏ ᛖ ᚱ  —  ᛁ ᛟ
+</p>
+
 ## 🧠 Mimir — Artificial Intelligence  
 AI that *does work*:
 - Persona-driven AI agents  
@@ -73,6 +78,10 @@ AI that *does work*:
 - Human-in-the-loop escalation paths  
 
 ---
+
+<p align="center">
+  ᚠ ᚢ ᚾ ᛖ ᚨ ᛏ ᛖ ᚱ  —  ᛁ ᛟ
+</p>
 
 ## 🔨 Brokkr — Automation  
 If it moves, it can be automated.  
@@ -85,6 +94,10 @@ If it breaks, it can be rebuilt stronger.
 
 ---
 
+<p align="center">
+  ᚠ ᚢ ᚾ ᛖ ᚨ ᛏ ᛖ ᚱ  —  ᛁ ᛟ
+</p>
+
 ## 📜 The Eddas — Pillars I Build With  
 - **Gungnir:** Accuracy & testing  
 - **Heimdall:** Security, always watching  
@@ -95,18 +108,8 @@ If it breaks, it can be rebuilt stronger.
 
 ---
 
-<!-- Divider -->
 <p align="center">
-  <img alt="runic divider" src="data:image/svg+xml;utf8,
-  <svg xmlns='http://www.w3.org/2000/svg' width='900' height='22' viewBox='0 0 900 22'>
-    <rect width='900' height='22' fill='transparent'/>
-    <g fill='none' stroke='white' stroke-width='1.2' opacity='0.6'>
-      <path d='M60 11 H840'/>
-      <path d='M90 4 L105 18 L120 4'/>
-      <path d='M780 4 L795 18 L810 4'/>
-      <path d='M420 2 L450 20 L480 2'/>
-    </g>
-  </svg>" />
+  ᚠ ᚢ ᚾ ᛖ ᚨ ᛏ ᛖ ᚱ  —  ᛁ ᛟ
 </p>
 
 ## 🛠️ Toolkit
@@ -133,12 +136,14 @@ If it breaks, it can be rebuilt stronger.
 ### Tools I Use Constantly
 <p>
   <img src="https://img.shields.io/badge/n8n-workflow%20automation-0B5FFF?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mirth%20Connect-integration%20engine-1A1A1A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Home%20Assistant-automation-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-networking-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
 
 ---
+
+<p align="center">
+  ᚠ ᚢ ᚾ ᛖ ᚨ ᛏ ᛖ ᚱ  —  ᛁ ᛟ
+</p>
 
 ## 🌟 Featured Projects (ready for pinning)
 Nothing pinned yet — but when you are, use this format:
@@ -147,34 +152,8 @@ Nothing pinned yet — but when you are, use this format:
 - **ᚠ Project Runestone 02** — *one-line what it does + why it matters*  
 - **ᛟ Project Runestone 03** — *one-line what it does + why it matters*  
 
-> When you give me your first repos, I’ll write these blurbs for you in-theme.
-
----
-
-## 📈 Saga Stats (theme aware)
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=suneater-io&show_icons=true&hide_title=true&rank_icon=github&theme=transparent" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suneater-io&layout=compact&theme=transparent" />
-</p>
-
-<p align="left">
-  <img height="170" src="https://streak-stats.demolab.com?user=suneater-io&theme=transparent&hide_border=true" />
-</p>
-
 ---
 
 ## 🚀 Want the full story?
 If you’re curious about how I think, what I build, or why my projects sometimes look like a controlled AI-powered fever dream:  
 👉 **https://suneater.io**
-
----
-
-<!-- Footer rune wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=130&section=footer" />
-</p>
-
-<p align="center">
-  ᚠ ᚢ ᚾ ᛖ ᚨ ᛏ ᛖ ᚱ  —  ᛁ ᛟ
-</p>
