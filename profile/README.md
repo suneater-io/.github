@@ -105,16 +105,18 @@ If it breaks, it can be rebuilt stronger.
 
 ### Core Stack
 <p>
-  <img src="https://img.shields.io/badge/Google%20Antigravity-Experiments-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-Knowledge%20Forge-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Perplexity-Research-0A85FF?style=for-the-badge&logo=perplexity&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-LLM%20Engine-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
-
-### Tools I Live by
-<p>
-  <img src="https://img.shields.io/badge/n8n-workflow%20automation-0B5FFF?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Home%20Assistant-automation-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white" />
+  <a href="https://labs.google.com/antigravity" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Antigravity-Experiments-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
+  <a href="https://www.notion.so" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-Knowledge%20Forge-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
+  <a href="https://www.perplexity.ai" target="_blank">
+    <img src="https://img.shields.io/badge/Perplexity-Research-0A85FF?style=for-the-badge&logo=perplexity&logoColor=white" />
+  </a>
+  <a href="https://chat.openai.com" target="_blank">
+    <img src="https://img.shields.io/badge/ChatGPT-LLM%20Engine-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  </a>
 </p>
 
 
