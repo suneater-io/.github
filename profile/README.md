@@ -69,20 +69,7 @@ If it breaks, it can be rebuilt stronger.
 - Event-driven workflows  
 - Orchestration pipelines  
 - Containerised utilities  
-- Making systems boring, reliable, and predictable  
-
-
-<p align="center">
-  ᚠ ᚢ ᚾ ᛖ ᚨ ᛏ ᛖ ᚱ  —  ᛁ ᛟ
-</p>
-
-## The Eddas — Pillars I Build With  
-- **Gungnir:** Accuracy & testing  
-- **Heimdall:** Security, always watching  
-- **Fenrir:** Chaos engineering  
-- **Skíðblaðnir:** Infinite scalability  
-- **Valhalla:** Continuous deployment  
-- **Bragi:** Clean documentation & clear storytelling  
+- Making systems boring, reliable, and predictable 
 
 
 <p align="center">
